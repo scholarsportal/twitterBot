@@ -1,4 +1,4 @@
-To add tweets automatically based on Journals Covid Search results to your twitter account
+To add tweets automatically to your twitter account based on Scholarsportal Journals Covid Search results
 
 Steps to be followed:
 
