@@ -12,5 +12,7 @@ Steps to be followed:
 
   Add Twitter app’s API keys and access tokens to twitter4j.properties
 
-  Run the program to add tweet:
-  java -cp ./:lib/twitter4j-core-4.0.7.jar:lib/json-simple-1.1.jar info.scholarsportal.ejournals.TwitterBot twitter4j.properties
+  Execute the script like this :
+
+$ cd twitterBot
+$ java -cp ./:lib/twitter4j-core-4.0.7.jar:lib/json-simple-1.1.jar info.scholarsportal.ejournals.TwitterBot twitter4j.properties
