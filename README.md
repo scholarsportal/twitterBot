@@ -15,4 +15,5 @@ Steps to be followed:
   Execute the script like this :
 
 $ cd twitterBot
+
 $ java -cp ./:lib/twitter4j-core-4.0.7.jar:lib/json-simple-1.1.jar info.scholarsportal.ejournals.TwitterBot twitter4j.properties
