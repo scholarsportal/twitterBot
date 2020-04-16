@@ -6,7 +6,7 @@ Steps to be followed:
 
   Install JAVA
 
-  Download the twitterBot project from git
+  Download the twitterBot project from git.  https://github.com/scholarsportal/twitterBot
 
   Unpack the zip file - this will create the directory 'twitterBot'
 
